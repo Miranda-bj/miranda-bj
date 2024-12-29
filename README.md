@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Miranda Josue C10_D3V </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<h3 align="center">I am a self-taught Intermediate Programmer👨‍💻, I have been programming with Python, JavaScript and Bash since 2019, and I also study Ethical Hacking🌐 😉</h3>
+<h3 align="center">Hello, I'm C10_D3V, I'm a self-taught, intermediate-level programmer 👨‍💻, I program with Python, JavaScript and Bash, I also know Ethical Hacking🌐, and I'm currently studying Software Engineering and Artificial Intelligence independently🤖😉</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
