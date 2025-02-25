@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Miranda Josue C10_D3V </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<h3 align="center">Hello, I'm C10_D3V, I'm a self-taught, intermediate-level programmer 👨‍💻, I program with Python, JavaScript, TypeScript, Bash And Ruby I also know Ethical Hacking🌐, and I'm currently studying Software Engineering and Artificial Intelligence independently🤖😉</h3>
+<h3 align="center">Hola soy Miranda (C10_D3V), soy programador autodidacta de nivel intermedio 👨‍💻, programo con Python, JavaScript, TypeScript, Bash, Java, C++, Swift & Ruby, también estudio Ciberseguridad & soy fan del Ethical Hacking🌐, y actualmente estoy estudiando Ingeniería de Software e Inteligencia Artificial de forma independiente 🤖😉 Mi mayor sueño es ser ingeniera de software para Microsoft & Google.👨‍💻</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
