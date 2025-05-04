@@ -8,7 +8,7 @@
 <br><br>
 - :school: I am a `intermediate` at programming and cybersecurity
 - :technologist: I love using Software as a solution for every `Problem`.
-- :technologist: Mid-level software developer `Python`, `JavaScript`, `TypeScript`, `Bash`, `Ruby`
+- :technologist: Mid-level software developer `Python`, `C++`, `Bash`, `dart`
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Ethical Hacking` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
