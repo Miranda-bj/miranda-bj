@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Miranda Josue C10_D3V </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<h3 align="center">Hello, I'm Miranda (C10_D3V), I'm a self-taught programmer considering that I have reached an intermediate level 👨‍💻, I program with Python, Bash, C++, & dart, I also study Cybersecurity and I am intermediate in Ethical Hacking & pentesting 🌐, and I am currently studying a master's degree in cybersecurity🤖😉 My biggest dream is to be a software engineer for Microsoft and Google.👨‍💻</h3>
+<h3 align="center">Hello, I'm Miranda (C10_D3V), I'm a self-taught programmer considering that I have reached an intermediate level 👨‍💻, I program with Python, Bash, C++, PowerShell, Assembly & dart, I also study Cybersecurity and I am intermediate in Ethical Hacking & pentesting 🌐, and I am currently studying a master's degree in cybersecurity🤖😉 My biggest dream is to be a software engineer for Microsoft and Google.👨‍💻</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -49,6 +49,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> BackEnd Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
