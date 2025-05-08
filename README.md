@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Miranda Josue C10_D3V </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<h3 align="center">Hello, I'm Miranda (C10_D3V), I'm a self-taught programmer considering that I have reached an intermediate level 👨‍💻, I program with Python, Bash, C++, PowerShell, Assembly & dart, I also study Cybersecurity and I am intermediate in Ethical Hacking & pentesting 🌐, and I am currently studying a master's degree in cybersecurity🤖😉 My biggest dream is to be a software engineer for Microsoft and Google.👨‍💻</h3>
+<h3 align="center">Hello, I'm Miranda (C10_D3V), I'm a self-taught programmer considering that I have reached an intermediate level 👨‍💻, I program with Python, Bash, C++, PowerShell, Assembly & dart, I also study Cybersecurity and I am intermediate in Ethical Hacking & pentesting 🌐, and I am currently studying a master's degree in cybersecurity🤖😉 My biggest dream is to be able to enter the top 3% of elite senior experts in advanced cybersecurity.👨‍💻</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
